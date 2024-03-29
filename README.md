@@ -1,16 +1,24 @@
-<h3 align="center">Hey I am Harshit👋🏼 I am from India!</h3>
+<h3 align="center">Hello world👋🏼</h3>
+<h3 align="center">I am Harshit, from India!</h3>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ureshii7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ureshii7&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ureshii7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=true" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ureshii7&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true" height="120" alt="stats graph"  />
 </div>
+
+###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ureshii7&locale=en&mode=weekly&theme=monokai&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ureshii7&locale=en&mode=weekly&theme=monokai&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
 
+###
+<br clear="both">
+<p align="center"> Languages that I use for programming👨🏼‍💻</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -33,24 +41,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
 
+###
+
 <br clear="both">
 
+<p align="center"> Catch up with me! </p>
 <div align="center">
   <a href="https://www.instagram.com/ureshiii7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
   </a>
-  <a href="mailto:Harshit007k@gmail.com" target="_blank">
+  <a href="Harshit007k@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://iotaai.github.io" target="_blank"><img src="https://i.ibb.co/KWvqpd7/logo-iota.png" alt="logo-iota" width="27" height="27"></a>
+  <a href="https://iotaai.github.io" target="_blank">
+    <img src="https://i.postimg.cc/BZmNMQWP/logo-iota.png" width="25" height="25" alt="iota logo" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://qph.cf2.quoracdn.net/main-qimg-c4ce46118bd901f59a9bcc51cbc411b2" border="0" height="200" />
-</div>
+###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31a2rjkl7pxv4mhn2yp5qyoz6ax4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31a2rjkl7pxv4mhn2yp5qyoz6ax4&count=1&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31a2rjkl7pxv4mhn2yp5qyoz6ax4&count=2&unique=false" alt="Spotify recently played" height="150" />
   </a>
 </div>
+
+###
