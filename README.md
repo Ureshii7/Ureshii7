@@ -47,7 +47,7 @@
   <a href="https://www.instagram.com/ureshiii7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
   </a>
-  <a href="Harshit007k@gmail.com" target="_blank">
+  <a href="https://gmail.com/Harshit007k@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
   </a>
   <a <a href="https://iotaai.github.io" target="_blank"><img src="https://i.ibb.co/KWvqpd7/logo-iota.png" alt="logo-iota" width="27" height="27"></a>
