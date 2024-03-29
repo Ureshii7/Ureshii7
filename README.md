@@ -48,17 +48,3 @@
 <img align="right" height="150" src="https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif?cid=790b76116uw7hgfggf7q4sb80cvlancf7li5v6v6w9ln6xjv&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 ###
-
-<div align="center">
-    <a href="https://spotify-recently-played-readme.vercel.app/api?user=31a2rjkl7pxv4mhn2yp5qyoz6ax4&count=3">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ureshi7&count=3&unique=false" alt="Spotify recently played" />
-    </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ureshii7/Ureshii7/output/snake.svg" alt="Snake animation" />
-
-###
