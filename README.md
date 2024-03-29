@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Ureshi7">
+    <a ![](https://spotify-recently-played-readme.vercel.app/api?user=31a2rjkl7pxv4mhn2yp5qyoz6ax4&count={3})
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ureshi7&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
