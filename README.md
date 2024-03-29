@@ -50,7 +50,7 @@
   <a href="Harshit007k@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
   </a>
-  <a <a href="https://ibb.co/cQnFS0t" target="_blank"><img src="https://i.ibb.co/KWvqpd7/logo-iota.png" alt="logo-iota" width="27" height="27"></a>
+  <a <a href="https://iotaai.github.io" target="_blank"><img src="https://i.ibb.co/KWvqpd7/logo-iota.png" alt="logo-iota" width="27" height="27"></a>
 </div>
 
 ###
