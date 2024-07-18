@@ -2,21 +2,6 @@
 <h3 align="center">I am Harshit, from India!</h3>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ureshii7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=true" height="120" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ureshii7&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true" height="120" alt="stats graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ureshii7&locale=en&mode=weekly&theme=monokai&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
-</div>
-
-###
 <br clear="both">
 <p align="center"> Languages that I use for programming👨🏼‍💻</p>
 <div align="center">
