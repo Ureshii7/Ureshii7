@@ -1,7 +1,7 @@
 ## About me
 - I work on Linux.
 - I am a highschooler.
-- I am Batman 🦇 
+- *clears throat-* I am Batman 🦇 
   
 ## Social 
 - discord: @ureshii7
