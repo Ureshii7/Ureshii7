@@ -1,5 +1,5 @@
 ## About me
-- I work on Linux.
+- I work on Linux & Windows.
 - I am a highschooler.
 - *clears throat-* I am Batman 🦇 
   
