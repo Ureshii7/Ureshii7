@@ -1,4 +1,4 @@
-﻿#  Hi, I'm Harshit 😁
+﻿#  Hi, I'm Harshit!
 - Self-taught programmer.
 - Work on Linux and Windows.
 - Refining my Linux customization and theming skills.
