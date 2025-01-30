@@ -1,6 +1,6 @@
 ﻿#  Hi, I'm Harshit!
 - Self-taught programmer.
-- Work on Linux and Windows.
+- Works on Linux and Windows.
 - Refining my Linux customization and theming skills.
 - On Break Till March 2025...
 
